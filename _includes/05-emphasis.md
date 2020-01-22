@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This *GitHub* feature is cool
+Trying to __bold__ some words *italicise* them __*simultaneously*__.
